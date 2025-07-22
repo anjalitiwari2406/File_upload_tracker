@@ -30,6 +30,4 @@ file-upload-tracker/
 ├── package.json
 └── README.md
 
-yaml
-Copy
-Edit
+
